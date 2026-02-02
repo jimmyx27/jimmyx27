@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">A Software Engineer from New York</h3>
-
-- 🔭 I’m currently working on **my sanity**
-
-- 👯 I’m looking to collaborate on **on anything fun. Just Ask!**
-
-- 📫 How to reach me **jimmyx27@gmail.com**
+<h1 align="center">Jim</h1>
+currently working on **my sanity**
+looking to collaborate
+reach me **jimmyx27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
